@@ -5,7 +5,7 @@ version = "0.0.1"
 edition = "2021"
 description = "A similar grep tool."
 license = "MIT OR Apache-2.0"
-documentation = ""
+documentation = "https://github.com/ifbiu/ifgrep"
 homepage = "https://github.com/ifbiu/ifgrep"
 
 [dependencies]

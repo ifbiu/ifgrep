@@ -1,0 +1,11 @@
+[package]
+name = "ifgrep"
+authors = ["biuvip@163.com"]
+version = "0.0.1"
+edition = "2021"
+description = "A similar grep tool."
+license = "MIT OR Apache-2.0"
+documentation = ""
+homepage = ""
+
+[dependencies]
